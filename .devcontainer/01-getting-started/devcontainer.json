@@ -1,0 +1,4 @@
+{
+  "name": "01-getting-started",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}

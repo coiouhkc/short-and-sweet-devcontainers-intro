@@ -1,0 +1,12 @@
+{
+  "name": "short-and-sweet-devcontainers-intro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo project showing npm supply-chain risks via a local postinstall-script package.",
+  "dependencies": {
+    "all-your-base-now-belong-to-us": "file:./npm-all-your-base-now-belong-to-us"
+  },
+  "allowScripts": {
+    "file:../npm-all-your-base-now-belong-to-us": true
+  }
+}

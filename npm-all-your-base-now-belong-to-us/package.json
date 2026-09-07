@@ -1,0 +1,12 @@
+{
+  "name": "all-your-base-now-belong-to-us",
+  "version": "1.0.0",
+  "description": "Educational demo: shows what a malicious postinstall script COULD do, without doing anything harmful.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./postinstall.js"
+  },
+  "license": "MIT",
+  "author": "",
+  "private": true
+}
