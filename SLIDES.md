@@ -17,18 +17,29 @@ _paginate: false
 
 # Intro, reason & background
 
-<!--
-Some intro.
-Then some reason and background.
--->
+## Supply chain attacks
+
+* malicious OS
+* ...
+* malicious npm
+* malicious prompt
+* ...
 
 ---
 
-# Use case 1
+# Caveat
+
+Devcontainers are still (Docker) containers, VMs are more secure.
 
 ---
 
-# Use case 2
+# Devcontainers
+
+* base
+* container
+* features
+* IDE (VSCode, IntelliJ Idea)
+* CLI
 
 ---
 
@@ -37,6 +48,14 @@ Then some reason and background.
 ---
 
 # Links
+
+* https://containers.dev/
+* https://containers.dev/features
+* https://microsoft.github.io/code-with-engineering-playbook/developer-experience/devcontainers-getting-started/
+* https://www.jetbrains.com/help/idea/connect-to-devcontainer.html
+* https://code.claude.com/docs/en/devcontainer
+* https://code.visualstudio.com/docs/devcontainers/devcontainer-cli#_running-the-cli
+* https://danz.blog/blog/opencode-in-devcontainers
 
 ---
 
